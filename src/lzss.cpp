@@ -1,7 +1,7 @@
 #include "lzss.hpp"
 #include <algorithm>
 
-// It is perfectly safe and standard to use this in a .cpp file!
+
 using namespace std; 
 
 namespace compress_project {
